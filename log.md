@@ -14,3 +14,6 @@ Progress of the day : Learnt how to accessing HTML element by using getElementsB
 
 ### DAY 05
 Progress of the day : Learnt how to access HTML element into our javascript by using getElementByName of a document object using web api . This getElementByName makes the grouping of a scenario.
+
+### DAY 06
+Progress of the day : Learnt how to access HTML element by using its class name means getElementsByClassName .
