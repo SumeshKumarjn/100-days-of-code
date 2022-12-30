@@ -19,4 +19,4 @@ Progress of the day : Learnt how to access HTML element into our javascript by u
 Progress of the day : Learnt how to access HTML element by using its class name means getElementsByClassName .
 
 ### DAY 07
-Progress of the day : Learnt how to access HTML element by using tagname namespace that is , getElementByTagNameNS. NameSpace, It is a strategy where we are defining some rule and it is used to identify to avoid the functionalities or the variables or the method collisions.
+Progress of the day : Learnt how to access HTML element by using tag name namespace that is , getElementByTagNameNS. NameSpace, It is a strategy where we are defining some rule and it is used to identify to avoid the functionalities or the variables or the method collisions.
