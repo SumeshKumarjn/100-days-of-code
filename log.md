@@ -20,3 +20,7 @@ Progress of the day : Learnt how to access HTML element by using its class name 
 
 ### DAY 07
 Progress of the day : Learnt how to access HTML element by using tag name namespace that is , getElementByTagNameNS. NameSpace, It is a strategy where we are defining some rule and it is used to identify to avoid the functionalities or the variables or the method collisions.
+
+### DAY 08
+Progress of the day : Accessing the HTMLusing a querySelector of a DOM object in our web api. The querySelector, is a method which will access the elements in the given
+format and by combing different types of selectors to fetch all the selectors with this particular pattern or a format then you can use querySelector.
