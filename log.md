@@ -28,4 +28,4 @@ Progress of the day : Accessing the HTML using a querySelector of a DOM object i
 Progress of the day : Accessing the HTML using a querySelectorAll method of a document object in a web api. Differnce of a querySelector and querySelectorAll is whenever a pattern matched with a querSelector it will written the first occurrence, whereas querySelectorAll will return all the elements which are matching with that pattern, if nothing is matched then it will return as empty array. 
 
 ### DAY 10
-Progress of the day :Accessing a html properties instead of HTML element, by an individual properties of that particular html and first property is innerHTML.
+Progress of the day : Accessing a html properties instead of HTML element, by an individual properties of that particular html and first property is innerHTML.
