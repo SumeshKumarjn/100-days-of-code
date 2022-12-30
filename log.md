@@ -24,3 +24,6 @@ Progress of the day : Learnt how to access HTML element by using tag name namesp
 ### DAY 08
 Progress of the day : Accessing the HTML using a querySelector of a DOM object in our web api. The querySelector, is a method which will access the elements in the given
 format and by combing different types of selectors to fetch all the selectors with this particular pattern or a format then you can use querySelector.
+
+### DAY 09
+Progress of the day : Accessing the HTML using a querySelectorAll method of a document object in a web api. Differnce of a querySelector and querySelectorAll is whenever a pattern matched with a querSelector it will written the first occurrence, whereas querySelectorAll will return all the elements which are matching with that pattern, if nothing is matched then it will return as empty array. 
