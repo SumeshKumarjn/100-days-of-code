@@ -8,3 +8,6 @@ Progress of the day : Learnt about DOM structure in javascript. DOM(Document Obj
 
 ### DAY 03
 Progress of the day : I have learnt how to access an HTML element by using getElementById of document api. This getElementById will target for the first occurrence of this id and it will return that element.
+
+### DAY 04
+Progress of the day : Learnt how to accessing HTML element by using getElementsByTagname using document object of web api. The getElementById will return one element but getElementByTagname will return all the elements which are matching with the tag name.
