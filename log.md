@@ -29,3 +29,6 @@ Progress of the day : Accessing the HTML using a querySelectorAll method of a do
 
 ### DAY 10
 Progress of the day : Accessing a html properties instead of HTML element, by an individual properties of that particular html and first property is innerHTML.
+
+### DAY 11
+Progress of the day : The innerText and how to access a innerText of a HTML content in javascript using document object of a web api.
