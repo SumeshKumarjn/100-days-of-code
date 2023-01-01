@@ -32,3 +32,7 @@ Progress of the day : Accessing a html properties instead of HTML element, by an
 
 ### DAY 11
 Progress of the day : The innerText and how to access a innerText of a HTML content in javascript using document object of a web api.
+
+### DAY 12
+Progress of the day : The textContent property of a javascript dom element using web api. The textContent fetches the data of a particular elements inside that particular element if we have any nested elements only we will be getting the text which is inside thar particular elements and also textContent will not bother about your css it will remove all your css and will give you only the text which you have inside your elements.
+
