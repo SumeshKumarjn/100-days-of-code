@@ -38,3 +38,6 @@ Progress of the day : The textContent property of a javascript dom element using
 
 ### DAY 13
 Progress of the day : Learnt the difference between innerHTML , innerText and the textContent. The innerHTML, focus on innerContent and not ignoring the tags and also not the spaces. The innerText, focus on innerContent ignorning the tags but not the spaces. The textContent, focus on innerText ignoring all the tags and all the spaces.
+
+### DAY 14
+Progress of the day : Learnt about how to access the forms in javascript and accessing and manipulating the javascript DOM elements. We have getElementById to return a form and in on top of the form elements we can use a property called as elements, which will return all the elements in that particular forms, Which are only form elements something like check box , radio button so such type of text field we can access by using elements and it will be return in an array format.
