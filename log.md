@@ -41,3 +41,6 @@ Progress of the day : Learnt the difference between innerHTML , innerText and th
 
 ### DAY 14
 Progress of the day : Learnt about how to access the forms in javascript and accessing and manipulating the javascript DOM elements. We have getElementById to return a form and in on top of the form elements we can use a property called as elements, which will return all the elements in that particular forms, Which are only form elements something like check box , radio button so such type of text field we can access by using elements and it will be return in an array format.
+
+### DAY 15
+Progress of the day : Learnt how to modify our DOM propeties or how to assign the values to our DOM properties.
