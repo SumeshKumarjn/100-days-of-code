@@ -44,3 +44,6 @@ Progress of the day : Learnt about how to access the forms in javascript and acc
 
 ### DAY 15
 Progress of the day : Learnt how to modify our DOM propeties or how to assign the values to our DOM properties.
+
+### DAY 16
+Progress of the day : Learnt about javascript setAttribute and getAttribute of an element using javascript DOM of api. All the attributes all the properties cannot be assigned directly nstead they are called as the attributes and that attributes if you want to change it we have to use setAttrbute. The property and the attribute will always differs.
