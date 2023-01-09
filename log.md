@@ -47,3 +47,6 @@ Progress of the day : Learnt how to modify our DOM propeties or how to assign th
 
 ### DAY 16
 Progress of the day : Learnt about javascript setAttribute and getAttribute of an element using javascript DOM of api. All the attributes all the properties cannot be assigned directly nstead they are called as the attributes and that attributes if you want to change it we have to use setAttrbute. The property and the attribute will always differs.
+
+### DAY 17
+Progress of the day : Learnt about createElement and appendElement of document api in javascript DOM. We are using a reateElement which is used to create a particular HTML element by using a document api. In appendChild, when we are appending a child the right side parameter should be your child element and left side whatever we are giving that should be a parent one. In that way we assign or we can append our childs into the parent one.
