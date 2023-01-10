@@ -50,3 +50,6 @@ Progress of the day : Learnt about javascript setAttribute and getAttribute of a
 
 ### DAY 17
 Progress of the day : Learnt about createElement and appendElement of document api in javascript DOM. We are using a reateElement which is used to create a particular HTML element by using a document api. In appendChild, when we are appending a child the right side parameter should be your child element and left side whatever we are giving that should be a parent one. In that way we assign or we can append our childs into the parent one.
+
+### DAY 18
+Progress of the day : Learnt about a creation of a login form using dynamic javascript DOM elements and by using document api.
