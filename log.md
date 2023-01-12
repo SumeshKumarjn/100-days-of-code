@@ -56,3 +56,6 @@ Progress of the day : Learnt about a creation of a login form using dynamic java
 
 ### DAY 19
 Progress of the day : Learnt about event Handlers in javacript and how to use then in our javascript DOM elements. Event Handler is like something whenever you do some actions on your html that has to perform some logic or task behind the scene.
+
+### DAY 20
+Progress of the day : Learnt about keyboard events in javascript.
