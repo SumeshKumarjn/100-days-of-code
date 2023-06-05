@@ -61,4 +61,4 @@ Progress of the day : Learnt about event Handlers in javacript and how to use th
 Progress of the day : Learnt about keyboard events in javascript.
 
 ### DAY 21
-Progress of the day : Started the first code in C++ , learnt the basic structure of code in C++.
+Progress of the day : Started the first code in java.
