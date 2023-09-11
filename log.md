@@ -59,6 +59,3 @@ Progress of the day : Learnt about event Handlers in javacript and how to use th
 
 ### DAY 20
 Progress of the day : Learnt about keyboard events in javascript.
-
-### DAY 21
-Progress of the day : Started the first code in java by doing question, Write a Java program to convert temperature from Fahrenheit to Celsius degrees.
